@@ -1,3 +1,5 @@
+#Creating variables for the game
+
 import random
 
 word_list = ["kiwi", "apple", "durian", "dragonfruit", "pear"]

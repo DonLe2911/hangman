@@ -1,3 +1,5 @@
+#Check if guessed character is in the word
+
 import random
 
 word_list = ["kiwi", "apple", "durian", "dragonfruit", "pear"]
